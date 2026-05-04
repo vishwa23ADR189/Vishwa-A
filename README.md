@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwa A</h1>
 <h3 align="center">A passionate AI & Data Science student with strong interest in programming, DSA, and real-world project development. Actively preparing for placements and internships.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-developer-189" alt="ai-developer-189" /></a> </p>
 
 - 🔭 I’m currently working on **car rental management system**
 
