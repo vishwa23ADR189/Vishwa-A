@@ -12,10 +12,10 @@
 
 ## 🛠 Skills
 
-### 🤖 Machine Learning
-- Python  
+### 🤖 Artificial Intelligence
+- Open CV  
 - Machine Learning Basics  
-- Decision Trees, Random Forest  
+- Deep learning  
 
 ### 🌐 Full Stack Development
 - HTML, CSS  
@@ -30,9 +30,9 @@
 
 ## 📂 Projects
 
-### 🔹 Machine Learning
-- Sign Language Recognition System  
-- (Add your riot detection / other ML projects here)
+### 🔹 Deep Learning
+- Violence Recognition System (knight owl)
+- Driver's Drowsiness Detection
 
 ### 🔹 Web Development
 - Car Rental Management System *(Currently Working)*  
@@ -79,9 +79,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ai-developer-189&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-developer-189&layout=compact" />
-</p>
